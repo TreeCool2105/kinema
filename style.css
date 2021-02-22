@@ -1,0 +1,159 @@
+*{
+    background-image:url(../kinema/imagenes/fondo.png);
+    padding: 0;
+    margin: 0;
+   
+   
+;
+}
+#erizo{
+    width: 120px;
+}
+#nombre{
+    width: 300px;
+}
+body{
+    background-color: darkgoldenrod;
+}
+
+#main-container header #cabecera{
+    padding: 50px;
+
+
+}
+header #cabecera ul{
+    margin: 0;
+    padding: 0;
+
+}
+header #cabecera ul li{
+    display: inline-block;
+    padding: 0px;
+    vertical-align: middle;
+}
+header #cabecera ul #logo{
+    margin-right: 40%;
+    margin-left: 50px;
+}
+#main-container header main{
+    margin: 0 auto;
+    width: 1400px;
+}
+.nosotros{
+    margin: 20px;
+    padding: 30px;
+    vertical-align: middle;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 80px;
+}
+
+
+#menu{
+    margin: 30px,10px;
+
+}
+  .nosotros{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    font-style:unset;
+    color: #fcfcfc;
+    background-color: #865e13;
+    border-radius: 15px;
+    border: 3px double #57421b;
+
+  }
+
+  #parrafo{
+      margin: 100px;
+  }
+  .boton_1:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+  .main{
+      margin: 100px;
+  }
+#especialidades{
+color:#57421b ;
+size: 36px;
+width: 36px;
+font-weight: 500px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 36px;
+}
+.subtitulos{
+    font-size: 40px;
+    vertical-align: center;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: #57421b;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+.mision{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    margin-left: 150px;
+    margin-right: 750px;
+    padding-left: 50px;
+}
+
+
+}
+header #fondo ul li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    
+   
+}
+img.derecha{
+    float: right;
+    width: 400px;
+    padding: 0px;
+}
+li{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0px;
+    margin: 0;
+  
+}
+#baner{
+    width: 800px;
+    margin: 10px;
+}
+.izquierda{
+    float: left;
+    width: 600px;
+    padding: 0px;
+    margin: 10px;
+}
+.derecha{
+    float: right;
+    width: 600px;
+    height: 250px;
+    padding: 0px;
+    margin: 10px;
+}
+#cuerpo{
+   
+    vertical-align: middle;
+    padding: 0px;
+    margin: 0;
+    padding-left: 10px;
+}
+
+
+
+
